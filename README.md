@@ -1,1 +1,1 @@
-# Blockchain jissen docker environment
+#  bitcoinjslib environment using docker
